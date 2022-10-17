@@ -12,8 +12,7 @@ import Login from './components/Login';
 import Registration from './components/Registration';
 import Quote from './components/Quote';
 import Idcard from './components/Idcard';
-import search from './components/search';
-import Cards from './components/Cards';
+
 
 import Calculator from './components/Calculator';
 function  App() {
